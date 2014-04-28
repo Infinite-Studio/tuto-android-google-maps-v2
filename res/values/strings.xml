@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tuto Google Maps</string>
+    <string name="action_active_zoom_compass_location">zoom - compas - position</string>
+    <string name="action_zoom_in">zoom in</string>
+    <string name="action_zoom_out">zoom out</string>
+    <string name="action_zoom_to">zoom to</string>
+    <string name="action_go_to_location">Voir le capitole (go to location)</string>
+    <string name="action_type_map_none">Map type : none</string>
+    <string name="action_type_map_normal">Map type : normal</string>
+    <string name="action_type_map_terrain">Map type : terrain</string>
+    <string name="action_type_map_satellite">Map type : satellite</string>
+    <string name="action_type_map_hybrid">Map type : hybrid</string>
+    <string name="action_show_traffic">Trafic</string>    
+    <string name="action_add_marker">Marqueur Toulouse Capitole</string>
+    <string name="action_add_lines">Lignes</string> 
+
+</resources>

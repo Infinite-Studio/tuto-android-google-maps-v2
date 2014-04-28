@@ -1,0 +1,81 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_active_zoom_compass_location"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_active_zoom_compass_location"/>
+    
+    <item
+        android:id="@+id/action_zoom_in"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_zoom_in"/>
+    
+    <item
+        android:id="@+id/action_zoom_out"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_zoom_out"/>
+    
+    <item
+        android:id="@+id/action_zoom_to"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_zoom_to"/>
+    
+    <item
+        android:id="@+id/action_go_to_location"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_go_to_location"/>
+    
+    <item
+        android:id="@+id/action_type_map_none"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_type_map_none"/>
+    
+    <item
+        android:id="@+id/action_type_map_normal"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_type_map_normal"/>
+    
+    <item
+        android:id="@+id/action_type_map_terrain"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_type_map_terrain"/>
+    
+    <item
+        android:id="@+id/action_type_map_satellite"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_type_map_satellite"/>
+    
+    <item
+        android:id="@+id/action_type_map_hybrid"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_type_map_hybrid"/>
+    
+    <item
+        android:id="@+id/action_show_traffic"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_show_traffic"/>
+    
+    <item
+        android:id="@+id/action_add_marker"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_add_marker"/>
+    
+    <item
+        android:id="@+id/action_add_lines"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_add_lines"/>
+
+</menu>
